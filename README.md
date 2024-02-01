@@ -46,6 +46,11 @@ Business Intelligence
 https://github.com/Latasharma26/SwiggyAnalysis/blob/main/Architecture.docx
 https://github.com/Latasharma26/SwiggyAnalysis/blob/main/Final%20Dashboard.png
 https://github.com/Latasharma26/SwiggyAnalysis/blob/main/LLD%20Document.docx
+https://github.com/Latasharma26/SwiggyAnalysis/blob/main/swiggy%20analysis.pbix
+https://github.com/Latasharma26/SwiggyAnalysis/blob/main/Wireframe.docx
+https://github.com/Latasharma26/SwiggyAnalysis/blob/main/Swiggy%20Bangalore%20Outlet%20Details.csv
+https://github.com/Latasharma26/SwiggyAnalysis/blob/main/SWIGGY%20DATA%20ANALYSIS.pptx
+https://github.com/Latasharma26/SwiggyAnalysis/blob/main/HLD%20Document.docx
 
 ## 📩 Feedback
 
