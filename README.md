@@ -44,6 +44,7 @@ Business Intelligence
 ## 🗂 Documentation
 
 https://github.com/Latasharma26/SwiggyAnalysis/blob/main/Architecture.docx
+https://github.com/Latasharma26/SwiggyAnalysis/blob/main/Final%20Dashboard.png
 
 ## 📩 Feedback
 
