@@ -21,7 +21,7 @@ Business Intelligence
     
 ## 📉 Dashboard
 
-
+![image](https://github.com/Latasharma26/SwiggyAnalysis/assets/96385877/3f122255-0db2-4a3d-bf29-94521d8ac6a6)
 
 
 ## ✔️ Conclusion
